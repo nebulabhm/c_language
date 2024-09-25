@@ -1,0 +1,5 @@
+﻿  generalizing_string_input.c
+h:\my_workshop\program\c_language\trainning\prj\generalizing_string_input\generalizing_string_input\generalizing_string_input.c(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  Generalizing_string_input.vcxproj -> H:\my_workshop\program\C_Language\trainning\prj\Generalizing_string_input\Debug\Generalizing_string_input.exe
+  Generalizing_string_input.vcxproj -> H:\my_workshop\program\C_Language\trainning\prj\Generalizing_string_input\Debug\Generalizing_string_input.pdb (Full PDB)
